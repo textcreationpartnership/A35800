@@ -1,0 +1,209 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Devil and the strumpet, or, The old bawd tormented</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35800</idno>
+            <idno type="STC">Wing D1217</idno>
+            <idno type="STC">ESTC R20239</idno>
+            <idno type="EEBO-CITATION">12676889</idno>
+            <idno type="OCLC">ocm 12676889</idno>
+            <idno type="VID">65581</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35800)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65581)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 959:34)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Devil and the strumpet, or, The old bawd tormented</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for E.B.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wells, Willie --  Anecdotes</term>
+               <term>Prostitutes.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:65581:1"/>
+            <pb facs="tcp:65581:1" rendition="simple:additions"/>
+            <p>THE DEVIL and the STRUMPET: OR THE Old BAWD Tormented. BEING A True and Amazing Relation of one <hi>Jenny Freeman,</hi> of <hi>Swan-Alley,</hi> in <hi>Eaſt-Smithfield,</hi> who having been a Leud, Notorious, and Wicked Liver for many Years, and Bawd to above 20 young Women, to their utter Ruin. The Devil appear'd to her on <hi>Wedneſday</hi> Night laſt, in a moſt frightful Shape, bringing her a Knife to cut her own Throat; drag<g ref="char:EOLhyphen"/>ging her out of her Bed, and beating her Black and Blue all over her Body, in a Sad and Diſmal man<g ref="char:EOLhyphen"/>ner, leaving her almoſt Dead in the place: And at another time ſtanding over her with a flaming Sword, for 3 Hours together, and then vaniſh'd out at the Window in a Flaſh of Fire. Being a ſad Warning for all Leud Women, and Wick<g ref="char:EOLhyphen"/>ed Strumpets whatſoever.</p>
+            <p>
+               <hi>Taken from her own Mouth, and Atteſted by her at her Houſe, in</hi> Swan-Alley, <hi>near the</hi> May-Pole <hi>in</hi> Eaſt-Smithfield, <hi>where ſhe now lies in a Sad and Dreadful Condition.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>E. B.</hi> near <hi>Ludgate.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:65581:2"/>
+            <pb n="3" facs="tcp:65581:2"/>
+            <head>THE <hi>Old</hi> Bawd <hi>Tormented,</hi> &amp;c.</head>
+            <p>
+               <hi>JANE FREEMAN,</hi> alias <hi>Briſteck,</hi> alias <hi>Philips,</hi> of <hi>Swan-Alley,</hi> near the <hi>May Pole,</hi> in <hi>Eaſt-Smithfield,</hi> having for ſeveral years been a Hackney Jilt, till her Riders thought her not worth throwing their legs o'er, at laſt was forc'd to take to that hodge podge of Wickedneſs for the Lucre of baſe pence, to delude poor innocent Creatures, to ſatisfie the Luſt of ungrateful Sinners, almoſt as bad as her ſelf; and was ſo dexterous in that part of Devilſim, vulgarly call'd a Bawd, that (if I am not Miſinform'd) in a matter of Seven years time her Baudſhip made a ſhift to ruin above 20 young Vir<g ref="char:EOLhyphen"/>gins, whoſe Maiden-heads rais'd her ſuch vaſt Con<g ref="char:EOLhyphen"/>tribution-Money, that ſhe ſoon ſet up for her ſelf an invincible <hi>Nanny-Houſe,</hi> in the dark Entry, at the lower end of <hi>Butcher-Row,</hi> where the Trade of Basket-making went on for a conſiderable time, but at laſt, as if the Devil ow'd her a Shame, for her paſt Tranſgreſſions, what with old Claps, and new ones on the back of them, her Carcaſs be<g ref="char:EOLhyphen"/>came ſo obnoxious to her Cuſtomers, that ſhe was forced to abandon her Pallace, and ſeek ſhelter un<g ref="char:EOLhyphen"/>der the Charitable Benevolence of that pariſh ſhe had done ſo much damage in, and in order thereto
+<pb n="4" facs="tcp:65581:3"/>ſhe was plac'd in <hi>Swan-Alley,</hi> where the Devil, her old Friend, ſtill viſits her, tho' in a more ruder man<g ref="char:EOLhyphen"/>ner than formerly, for about a Month ago he came to her as ſhe was going to Bed, in the ſhape of a grim old Gentleman, with a White-haſted knife in his Hand, making ſigns to her to cut her own Throat; but ſhe being affrighted, happened to cry out (which was a Wonder) <hi>Lord have Mercy upon me;</hi> at which time, old <hi>Nick</hi> being amaz'd at ſuch an Expreſſion, from ſuch a Faithful Servant, vaniſh<g ref="char:EOLhyphen"/>ed out of the Window, in a dreadful Flaſh of Fire; leaving his old Acquaintance in the Dark, to find out the meaning of his uncivil departure; but as an Earneſt of his former kindneſs, he left behind him ſuch a horrid Stink of Brimſtone and Smoke, that had not her Noſe been well ſeaſon'd with the perfumes of the Pox many years before, it had been enough to have ended her Days by Suffoca<g ref="char:EOLhyphen"/>tion.</p>
+            <p>And in this manner, his Devilſhip has ſince ap<g ref="char:EOLhyphen"/>pear'd to her ſeveral times; but inſtead of working a Reformation in her, it makes her worſe and worſe, inſomuch that when any of her Neighbours deſir'd her to ſend for a Miniſter to pray by her, ſhe Cur<g ref="char:EOLhyphen"/>ſes and Damns in the dreadfulleſt manner that ever was heard of, without any Remorſe of Conſcience for her paſt Wickedneſs, the Devil having harden<g ref="char:EOLhyphen"/>ed her Heart to ſuch a terrible Degree, that all good Counſel is ineflectual; telling the Miniſters that come to viſit her, that <hi>ſhe has no buſineſs with ſuch black diſembling Hypocrites as they are.</hi>
+            </p>
+            <pb n="5" facs="tcp:65581:3"/>
+            <p>But the moſt amazing appearance the Devil made, was a <hi>Wedneſday</hi> Night laſt, about 12 a Clock in the Night, which I had from her own Mouth, <hi>viz.</hi> ſhe being in Bed wide awake, ſaw the Devil ſtand before her with a Sword drawn, at which time be<g ref="char:EOLhyphen"/>ing very much aſtoniſh'd at his great Saucer Eyes, that Shin'd like Fire, ſhe ſhrunk down under the Cloaths, thinking by that means to hide her ſelf from him, ſhe had no ſooner done ſo, but all the Cloaths were pull'd off with ſuch ſwift Violence, that ſhe thought a Whirl-wind had done it, and at the ſame time her Devil of a Maſter took her by the Legs, and dragg'd her about the Room for a conſiderable time, till ſhe thought the Bones of her Body had been broke in pieces. After which, throwing her with great Violence towards the Chimney Corner, ſhe lay as Dead fro ſome time; but at laſt coming to her ſelf, and opening her Eyes, ſhe ſaw to her Amazement the Gaſtly Fiend ſtanding over her with a Flaming Sword, grinning and ſtaring in her Face in a ſtrange and frightful manner, continuing in that Deviliſh Poſture, from one of the Clock, till near Four the next Morning, at which time, (to give the Devil his due) he went up ſtairs, without giving her any more Diſturbance but when the Day-light appear'd, the old Bawd was forc'd to call to a Woman who lodg'd in a Garret, to come down and help her into Bed, ha<g ref="char:EOLhyphen"/>ving been ſo Buffetted by <hi>Satan,</hi> that her Thighs, Belly, Legs, Arms, head, Shoulders, Hips, But<g ref="char:EOLhyphen"/>tocks, and all parts of her body, were bruiſed to ſuch a terrible degree, that we was as black as a
+<pb n="6" facs="tcp:65581:4"/>Shooe all over; but more eſpecially her Arms and Thighs, where in ſome places the very Fleſh and Skin was pull'd off as if with Pincers, in the ſa<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> eſt manner as ever Eyes beheld, and every thi<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> in the Room which ſtood in order over Night we<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> turn'd Topſie Turvy, the Chairs which was a<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ways by the Bed-ſide were thrown upſide down at the Stairs foot, where the Pillow and Bed-cloath were confuſedly tumbled together, and every thin<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> diſorder'd in ſuch a ſupernatural and unaccountabl<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> manner, that none but the Devil himſelf could poſ<g ref="char:EOLhyphen"/>ſibly in one Nights time have laid ſo few things it ſuch a diſtracted manner, the very Candleſtick<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſtanding with the great ends upwards contrary to the order of Nature.</p>
+            <p>She confeſs'd to me that ſhe had been a v<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> leud and beaſtly Woman, and that ſhe had be<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the Ruin of ſeveral young Women, who otherw<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> might have liv'd chaſte and modſt; and that <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> believ'd the Devil, whom ſhe had ſo long been a Servant to, was now reſolv'd to pay her her VVa<g ref="char:EOLhyphen"/>ges; ſeveral Charitable Neighbours, and others, comes daily to ſee her, to whom ſhe freely imparts the Particulars above-Mention'd, and deſires all Kienappers of Virginity to take VVarning by her ſtinking Fate; for ſhe acknowledg'd (which I ſhould have told you of before) that while the Devil ſtood over her with his infernal VVeapon; it put her great and ſmall Guts into ſuch horrid diſor<g ref="char:EOLhyphen"/>der with the Fright, that ſhe was obliged to let go at both Holes, for the eaſe of her rotten Carcaſs, which then was perſum'd with ſuch Natural and
+<pb n="7" facs="tcp:65581:4"/>Artificial Scents, that if the Devil himſelf had ſtaid any longer, unleſs he had loſt the Senſe of Smelling, he had run the risk of being Poyſon'd.</p>
+            <p>But without Jeſting, ſhe is ſtill very ſtrangely haunted with an Infernal Spirit, as ſhe her ſelf Con<g ref="char:EOLhyphen"/>feſſes, and what that Spirit ſhould be but the De<g ref="char:EOLhyphen"/>vil himſelf, I leave thoſe to judge who are his more intimate Acquaintance; as for this poor VVretch, ſhe has been as great a VVhore and Bawd, as per<g ref="char:EOLhyphen"/>haps <hi>Tower-Hill, Roſemary-Lane,</hi> or <hi>Eaſt-Smith<g ref="char:EOLhyphen"/>ſield</hi> ever produc'd; and 'tis very well known thoſe parts of the VVorld have not been very thin of ſuch Cattel: However, 'tis hoped ſome of them by this wicked VVoman's diſmal Misfortune, may take warning, and grow better.</p>
+            <p>For if the Devil, who firſt deluded them into <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is Snare, by inviſible VViles and alluring Intice<g ref="char:EOLhyphen"/>ments can't fright them into good Manners, by his <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>gly and frightful appearance nothing will reclaim <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ch hardened wretches but a halter, which is com<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>only the Conſequence of ſuch bruites.</p>
+            <p>'Tis no wonder for ſuch filthy and luſtful Proſti<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>utes, who having liv'd to make up the meaſure of <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heir VVickedneſs, to be ſtung with the Gailt of <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eir own plute Conſciences, and every moment <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>mented with the thoughts of that Devil they we ſo long ſerved; ſo that from hence we may in<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, that this Infernal Spirit does appear continual before this naked VVoman's Eyes, and that by ſupernatural Motion, may cauſe her body to be <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>'d againſt the ground, and receive manifeſt uſes; as ſeveral Hiſtories, both Ancient and Mo<g ref="char:EOLhyphen"/>dern
+<pb n="8" facs="tcp:65581:5"/>hath given us plentiful Inſtances of; but whether the Devil or her own guilty Conſcience doth really produce theſe ſtrange effects, are <hi>Queries</hi> not yet decided. But this we are ſure of, that ſhe has ſuffered bodily Affliction; and if we many cre<g ref="char:EOLhyphen"/>dit her own words, which ſhe delivers, not like a perſon out of her Senſes, that by Divine Permiſ<g ref="char:EOLhyphen"/>ſion, the Devil is ſuffered to torment her in this Life; in order perhaps to bring her to Repentance when all other means fail.</p>
+            <p>Theſe are the Comſequences of a vicious and luſt ful Life, therefore let Youth and Beauty ſtan<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> upon their Guard, leaſt they are unnappily ſed<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ced by thoſe VVicked and Debauch'd Inſtrument and conſequently ſhare in the ſame Fate, and b<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> brought to a ſorrowful Repentance, under th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſame Miſeries.</p>
+            <lg>
+               <l>Let Whores and Bawds their Lives amen</l>
+               <l>Leaſt they come to a Wicked end.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>Licenſed and Entered according to Order.</p>
+            <pb facs="tcp:65581:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
